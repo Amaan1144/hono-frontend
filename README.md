@@ -14,6 +14,19 @@ This project is a React-based Employee Management Dashboard, allowing the manage
 - [License](#license)
 - [Contributing](#contributing)
 
+## Screenshots
+## Dashboard
+<img width="1436" alt="Screenshot 2024-10-16 at 3 09 17 PM" src="https://github.com/user-attachments/assets/c997e014-6202-40be-9567-68640f0f5d0f">
+
+## Add Employee Form
+<img width="1436" alt="Screenshot 2024-10-16 at 3 09 24 PM" src="https://github.com/user-attachments/assets/b2d1a705-7f26-4460-823e-9beb25aeed23">
+
+## View Employee Details
+<img width="1436" alt="Screenshot 2024-10-16 at 3 09 30 PM" src="https://github.com/user-attachments/assets/4955c4a8-cf24-432a-8bdd-79c93c529634">
+
+## Update Employee Details
+<img width="1436" alt="Screenshot 2024-10-16 at 3 09 36 PM" src="https://github.com/user-attachments/assets/c86a9df5-692d-4051-8b8d-c511579165ed">
+
 ## Features
 - **Add New Employee**: Add new employees using a modal form.
 - **View Employee Details**: View detailed information of an employee in a modal.
